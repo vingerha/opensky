@@ -2,7 +2,6 @@
   "name": "opensky2",
   "country": "FR",
   "domains": ["sensor"],
-  "render_readme": true,
   "documentation": "https://github.com/vingerha/opensky",
   "homeassistant": "0.1.0"
 }
